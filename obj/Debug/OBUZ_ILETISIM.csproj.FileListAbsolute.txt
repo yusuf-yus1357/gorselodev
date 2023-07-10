@@ -1,0 +1,16 @@
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\bin\Debug\OBUZ_ILETISIM.exe.config
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\bin\Debug\OBUZ_ILETISIM.exe
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\bin\Debug\OBUZ_ILETISIM.pdb
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.csproj.AssemblyReference.cache
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.Form1.resources
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.Properties.Resources.resources
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.csproj.GenerateResource.cache
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.exe
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.pdb
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.Kontör.resources
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.Tamir.resources
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.Urünler.resources
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.Personel_UrünModülü.resources
+C:\Users\Ferhat\source\repos\OBUZ_ILETISIM\OBUZ_ILETISIM\obj\Debug\OBUZ_ILETISIM.PersonelGiris.resources
